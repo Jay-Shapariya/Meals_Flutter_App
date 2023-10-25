@@ -1,16 +1,13 @@
-# meals
+# Flutter Meals App
 
-A new Flutter project.
+This Flutter app allows users to explore various food categories and discover delicious meals.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse food categories
+- View meals within a category
+- Get detailed information about a meal
+- Save your favorite meals
+- Search for specific meals
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
